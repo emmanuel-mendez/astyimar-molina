@@ -1,0 +1,15 @@
+{
+  "name": "astyimar-molina",
+  "version": "1.0.0",
+  "description": "Astyimar Molina's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Portfolio",
+    "Website"
+  ],
+  "author": "@emmanelos",
+  "license": "ISC"
+}
